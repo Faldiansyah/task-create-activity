@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Materi Activity</string>
+    <string name="hitung">hitung</string>
+    <string name="reset">reset</string>
+    <string name="kembali">kembali</string>
+    <string name="hasil">Hasil</string>
+    <string name="kalkulator_bmi">Kalkulator BMI</string>
+    <string name="judul_nilai">Menghitung Nilai Akhir Mahasiswa</string>
+    <string name="penjumlahan">PENJUMLAHAN</string>
+    <string name="hasil_penjumlahan">Hasil Penjumlahan</string>
+    <string name="kategori_penjumlahan">Kategori Penjumlahan</string>
+    <string name="_0">0</string>
+    <string name="tugas_pembuatan_activity">Tugas Pembuatan Activity</string>
+    <string name="nilai_akhir_mahasiswa">Nilai Akhir Mahasiswa</string>
+</resources>
